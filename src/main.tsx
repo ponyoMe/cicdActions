@@ -15,6 +15,7 @@ const root = createRoot(container!);
 root.render(
   <React.StrictMode>
     <Global />
+    <h1>This is small change</h1>
     <App />
   </React.StrictMode>
 );
